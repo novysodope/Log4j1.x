@@ -80,6 +80,3 @@ s.close()
 running exp.py can trigger the vulnerability.
 
 
-
-
-Attackers can use this vulnerability as a backdoor to maintain permissions.
